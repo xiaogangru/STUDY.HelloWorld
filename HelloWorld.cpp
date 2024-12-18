@@ -10,6 +10,7 @@ int main()
 	cout << "Hello Canada!\n";
 	cout << "Hello America!\n";
 	cout << "Hello Japan!\n";
+	cout << "Hello CHINA!\n";
 
 	return (0);
 }
