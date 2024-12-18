@@ -11,6 +11,7 @@ int main()
 	cout << "Hello America!\n";
 	cout << "Hello Japan!\n";
 	cout << "Hello CHINA!\n";
+	cout << "Hello Thailand, I love Thailand!\n";
 
 	return (0);
 }
