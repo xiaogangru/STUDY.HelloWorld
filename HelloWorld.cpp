@@ -9,5 +9,7 @@ int main()
 	cout << "Hello Asia!\n";
 	cout << "Hello Canada!\n";
 	cout << "Hello America!\n";
+	cout << "Hello Japan!\n";
+
 	return (0);
 }
