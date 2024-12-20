@@ -14,5 +14,6 @@ int main()
 	cout << "Hello Thailand, I love Thailand!\n";
 	cout << "Hello Thailand, I love KL!\n";
 	cout << "Hello Thailand, I love Singapore!\n";
+	cout << "Hello Thailand, Today is December 20th!\n";
 	return (0);
 }
